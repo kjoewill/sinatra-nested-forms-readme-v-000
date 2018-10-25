@@ -366,7 +366,7 @@ block to create instances of our `Course` class. We store the instantiated
 courses in the instance variable `@courses`, making the course information
 available within our view, `student.erb`.
 
-Finally, the controller action loads the erb file `student.erb`, and we can see
+Finally, finally the controller action loads the erb file `student.erb`, and we can see
 all of the newly-created student and course information in the browser.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-nested-forms-readme'>Sinatra Nested Forms</a> on Learn.co and start learning to code for free.</p>
